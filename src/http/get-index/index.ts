@@ -11,8 +11,7 @@ let body = `
   <body>
 
     <h1 class="center-text">
-      <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello world!
+      It better be simpler than Lambda!
     </h1>
 
     <p class="center-text">
